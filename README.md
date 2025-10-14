@@ -5,7 +5,7 @@ This data analysis project involved building an automated ETL pipeline that inge
 To provide valuable insights into quarterly homelessness trends and inform effective prevention strategies across Hackney and nine neighbouring local authorities.
 
 ### DATA
-Dataset is publicly available on gov.uk website.
+Dataset is publicly available on the gov.uk website.
 
 ### TOOLS USED
 1. PyCharm IDE: Used for creating and running Python scripts.
