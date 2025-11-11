@@ -72,14 +72,14 @@ Public datasets sourced from [GOV.UK](https://www.gov.uk/).
 
 ---
 
-## ✅ RECOMMENDATIONS<br>
-1. Educate households on importance of encouraging friends or family members to apply early for their own housing options while relationships are still positive.
-2. Encourage household members to report early signs of domestic abuse to help identify potential risks of homelessness and enable timely preventive measures.
-3. Strengthen the council’s capacity to secure accommodation and expand its use of LA/HA stock to reduce reliance on more expensive alternatives.
-4. Direct greater investment towards reducing the length of time families spend in temporary accommodation, in order to minimize the negative impact on growing children.
-5. Investigate the root causes of unexpectedly high use of temporary accommodation by  single adult males.
+## 💡 RECOMMENDATIONS<br>
+1. Promote early housing applications among households and relatives.
+2. Strengthen early reporting of domestic abuse to prevent homelessness.
+3. Expand use of LA/HA housing stock to reduce costly private placements.
+4. Invest in reducing the time families spend in temporary accommodation.
+5. Investigate the high prevalence of single adult males in temporary housing.
 
 ---
 
-### REPORT SUMMARY
-Full version of this report is available [here](https://github.com/Beegie01/Comparing-Homelessness-Trends-in-Hackney-and-Neighbouring-Local-Authorities/blob/main/Hackney%20Quarterly%20Report%20-%20MAR2025.pdf).<br>
+### 📘 FULL REPORT
+Read the complete publication: [Hackney Quarterly Report – March 2025](https://github.com/Beegie01/Comparing-Homelessness-Trends-in-Hackney-and-Neighbouring-Local-Authorities/blob/main/Hackney%20Quarterly%20Report%20-%20MAR2025.pdf).<br>
